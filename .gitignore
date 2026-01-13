@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+*.swp
+*~
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+.eggs/
+venv/
+.venv/
+env/
+
+# Claude
+.claude/
+
+# External reference repos (don't commit)
+Machine-Learning-Interviews/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
